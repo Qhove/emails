@@ -1,0 +1,13 @@
+{
+  "name": "Zanix email-sender",
+  "version": "1.1.0",
+  "description": "Send email using Gmail SMTP + dotenv + nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.15"
+  }
+}

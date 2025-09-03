@@ -1,0 +1,7 @@
+example@gmail.com
+example@outlook.com
+example@yandex.com
+example@yahoo.com
+example@proton.me
+example@mail.ru
+
